@@ -51,5 +51,4 @@
 
 ### GitHub Stats:
 ![](![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-murtadak&theme=ayu_mirage)
-Markdown Usage
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubham-murtadak&theme=ayu_mirage)
+
