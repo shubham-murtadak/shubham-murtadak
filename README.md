@@ -46,7 +46,7 @@
 [sklearn]: https://scikit-learn.org/stable/index.html
 [pandas]: https://pandas.pydata.org/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[medium]: https://adityashirsath.medium.com/
+[medium]: https://shubhamdmurtadak.medium.com/
 [gmail]: shubhammurtadak022@gmail.com
 
 ### GitHub Stats:
