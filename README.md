@@ -50,5 +50,5 @@
 [gmail]: shubhammurtadak022@gmail.com
 
 ### GitHub Stats:
-(![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-murtadak&theme=ayu_mirage)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-murtadak&theme=ayu_mirage)
 
