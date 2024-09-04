@@ -1,4 +1,4 @@
-## ***Hi there! I'm ADITYA <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width=50 hight=50>***
+## ***Hi there! I'm SHUBHAM <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width=50 hight=50>***
 
 [![Linkedin](https://img.shields.io/website?down_message=down&label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2F)][linkedin]
 &nbsp;&nbsp;[![medium_url](https://img.shields.io/website?down_color=black&label=Medium&logo=Medium&logoColor=black&style=social&url=https%3A%2F%2Fwww.medium.com%2F)][medium]
@@ -13,10 +13,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Aditya| LinkedIn" width="22px" src="https://github.com/AdiShirsath/AdiShirsath/blob/main/icons/linkedin.png" />][linkedin]
-[<img align="left" alt="Aditya | medium" width="30px" src="https://github.com/AdiShirsath/AdiShirsath/blob/main/icons/medium.svg" />][medium]
-[<img align="left" alt="shirsath_adi | Twitter" width="22px" src="https://github.com/AdiShirsath/AdiShirsath/blob/main/icons/twitter.png" />][twitter]
-[<img align="left" width="28px" src="https://github.com/AdiShirsath/AdiShirsath/blob/main/icons/gmail2.png" />][gmail]
+[<img align="left" alt="Shubham| LinkedIn" width="22px" src="https://github.com/shubham-murtadak/shubham-murtadak/blob/main/icons/linkedin.png" />][linkedin]
+[<img align="left" alt="Aditya | medium" width="30px" src="https://github.com/shubham-murtadak/shubham-murtadak/blob/main/icons/medium.svg" />][medium]
+[<img align="left" alt="shirsath_adi | Twitter" width="22px" src="https://github.com/shubham-murtadak/shubham-murtadak/blob/main/icons/twitter.png" />][twitter]
+[<img align="left" width="28px" src="https://github.com/shubham-murtadak/shubham-murtadak/blob/main/icons/gmail2.png" />][gmail]
 
 <br>
 
@@ -32,22 +32,19 @@
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
 
 <br />
-<br />
 
 ---
 
 <!-- Links -->
-[linkedin]: https://www.linkedin.com/in/adishirsath55/
-[github]: https://github.com/AdiShirsath
-[twitter-follow]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Adishirsath77
-[twitter]: https://twitter.com/Adishirsath77
-[instagram]: https://www.instagram.com/adya_shirsath/
+[linkedin]: https://www.linkedin.com/in/shubham-murtadak/
+[github]: https://github.com/shubham-murtadak
 [tensorflow]: https://www.tensorflow.org/
 [sklearn]: https://scikit-learn.org/stable/index.html
 [pandas]: https://pandas.pydata.org/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[medium]: https://adityashirsath.medium.com/
-[gmail]: mailto:adityashirsath4@gmail.com
+[medium]: https://shubhamdmurtadak.medium.com/
+[gmail]: shubhammurtadak022@gmail.com
+
 
 ### GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adishirsath&theme=ayu_mirage)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-murtadak&theme=ayu_mirage)
