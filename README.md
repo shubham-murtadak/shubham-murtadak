@@ -46,7 +46,4 @@
 
 
 ### GitHub Stats:
-<p float="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-murtadak&theme=ayu_mirage" width="700" style="margin-right: 20px;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubham-murtadak&theme=ayu_mirage" width="400" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-murtadak&theme=ayu_mirage)
