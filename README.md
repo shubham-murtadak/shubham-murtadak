@@ -15,7 +15,6 @@
 
 [<img align="left" alt="Shubham| LinkedIn" width="22px" src="https://github.com/shubham-murtadak/shubham-murtadak/blob/main/icons/linkedin.png" />][linkedin]
 [<img align="left" alt="Aditya | medium" width="30px" src="https://github.com/shubham-murtadak/shubham-murtadak/blob/main/icons/medium.svg" />][medium]
-[<img align="left" alt="Twitter" width="22px" src="https://github.com/shubham-murtadak/shubham-murtadak/blob/main/icons/twitter.png" />](https://twitter.com/)
 [<img align="left" width="28px" src="https://github.com/shubham-murtadak/shubham-murtadak/blob/main/icons/gmail2.png" />][gmail]
 
 <br>
