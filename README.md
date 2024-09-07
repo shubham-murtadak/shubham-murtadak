@@ -20,9 +20,6 @@
 <br>
 
 ### Languages and Tools:
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,r,django,flask,mysql,sqlite,mongodb,pytorch,sklearn,tensorflow,html,css,bootstrap,tailwind,js,opencv,linux,anaconda,github,vscode,pycharm,gitlab,snowflake" />
-</div>
 [<img align="left" alt="Tensorflow" width="30px" src="https://user-images.githubusercontent.com/75840165/113471283-0aea1a00-9479-11eb-82e3-b9264ffe9aab.png"/>][tensorflow]
 [<img align="left" alt="Scikit-learn" width="30px" src="https://user-images.githubusercontent.com/75840165/113471281-09205680-9479-11eb-9947-e712f7dd33f7.png" />][sklearn]
 [<img align="left" alt="Pandas" width="30px" src="https://user-images.githubusercontent.com/75840165/113471285-0c1b4700-9479-11eb-9060-01f171b3b562.png" />][pandas]
