@@ -1,6 +1,5 @@
 
 ## ***Hi there! I'm SHUBHAM <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width=50 hight=50>***
-<h2 align="center"><strong>Data Enthusiast from India</strong></h2>
 
 [![Linkedin](https://img.shields.io/website?down_message=down&label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2F)][linkedin]
 &nbsp;&nbsp;[![medium_url](https://img.shields.io/website?down_color=black&label=Medium&logo=Medium&logoColor=black&style=social&url=https%3A%2F%2Fwww.medium.com%2F)][medium]
