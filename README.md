@@ -9,7 +9,11 @@
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Hobbies: I love to watch Movies and Cricket.
 - :robot: My Goal: Research & contribute to this amazing field of AI and Machine Learning.
+
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
+
+<img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" alt="Data Never Lies" width="500" height="250" align="center">
+
 -----
 
 ### Connect with me:
