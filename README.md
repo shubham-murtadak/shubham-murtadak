@@ -48,4 +48,4 @@
 
 ### GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-murtadak&theme=ayu_mirage)
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
