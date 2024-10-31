@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/website?down_message=down&label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2F)][linkedin]
 &nbsp;&nbsp;[![medium_url](https://img.shields.io/website?down_color=black&label=Medium&logo=Medium&logoColor=black&style=social&url=https%3A%2F%2Fwww.medium.com%2F)][medium]
 
-### ***I'm a Machine Learning Engineer, Data Scientist, Student*** !!
+### ***I'm a Artificial Intelligence, Machine Learning Engineer, Data Scientist, Student*** !!
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Hobbies: I love to watch Movies and Cricket.
