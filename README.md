@@ -48,5 +48,16 @@
 
 
 ### GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-murtadak&theme=ayu_mirage)
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/shubham-murtadak?cardType=github&theme=tokyonight&preferLogin=false&Background=000000)](https://git.io/awesome-stats-card)
+
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-murtadak&theme=ayu_mirage" alt="Profile Details">
+    </td>
+    <td>
+      <a href="https://git.io/awesome-stats-card">
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/shubham-murtadak?cardType=github&theme=tokyonight&preferLogin=false&Background=000000" alt="My Awesome Stats">
+      </a>
+    </td>
+  </tr>
+</table>
