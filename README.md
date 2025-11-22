@@ -45,10 +45,10 @@ From **classical ML to Deep Learning, LLMs, RAG, Agentic AI, and scalable deploy
 If you're working on **AI Agents, RAG, AI/ML research or product development**, I'm always open to meaningful conversations & collaboration.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/shubham-murtadak/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white">
   </a>
-  <a href="https://medium.com/@your-profile" target="_blank">
+  <a href="https://shubhamdmurtadak.medium.com/" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Read%20my%20blogs-black?logo=medium&logoColor=white">
   </a>
 </p>
